@@ -1,5 +1,7 @@
 # 🎮 Games Store Backend API
 
+![Games Store Banner](games-app.webp)
+
 This is the backend service for a Games Store e-commerce platform, developed as the final project for the NTI (National Telecommunication Institute) training program. It provides a robust and secure RESTful API for managing users, games, shopping carts, orders, and ratings.
 
 ## 🚀 Tech Stack
